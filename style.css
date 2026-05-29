@@ -16,6 +16,7 @@ body{
 
 h2{
     font-size: 50px;
+    color:black;
 }
 
 button{
@@ -27,3 +28,7 @@ button{
     border-radius: 5px;
     margin: 5px;
 }
+
+h1{
+    color:#1367c7;
+}   
